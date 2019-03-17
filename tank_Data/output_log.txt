@@ -1,0 +1,25 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\b5U3dDisk\Chapter2\Tank\tank_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\b5U3dDisk\Chapter2\Tank\tank_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\b5U3dDisk\Chapter2\Tank\tank_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\b5U3dDisk\Chapter2\Tank\tank_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\b5U3dDisk\Chapter2\Tank\tank_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\b5U3dDisk\Chapter2\Tank\tank_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\b5U3dDisk\Chapter2\Tank\tank_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\b5U3dDisk\Chapter2\Tank\tank_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\b5U3dDisk\Chapter2\Tank\tank_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.094 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\b5U3dDisk\Chapter2\Tank\tank_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 130c -> priority: 1 
